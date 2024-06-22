@@ -27,7 +27,6 @@ This portfolio site is designed to present my work and achievements in the field
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
 - **Deployment**: GitHub Pages, Netlify
 
 ## Usage
